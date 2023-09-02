@@ -1,6 +1,6 @@
 libnnsmcs_srcs = files(
     'base.c',
-    'ringbuffer.c',
-    'fileiomain.c',
+    'ringBuffer.c',
+    'fileIOmain.c',
     'print.c'
 )
