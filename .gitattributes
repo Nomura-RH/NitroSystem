@@ -1,0 +1,10 @@
+*.c text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+
+meson.build text eol=lf
+meson.options text eol=lf
+
+*.c linguist-language=C
+*.h linguist-language=C
+*.hpp linguist-language=C
